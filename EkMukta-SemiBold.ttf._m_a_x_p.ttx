@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <maxp>
+    <!-- Most of this table will be recalculated by the compiler -->
+    <tableVersion value="0x10000"/>
+    <numGlyphs value="1355"/>
+    <maxPoints value="156"/>
+    <maxContours value="8"/>
+    <maxCompositePoints value="0"/>
+    <maxCompositeContours value="0"/>
+    <maxZones value="2"/>
+    <maxTwilightPoints value="52"/>
+    <maxStorage value="68"/>
+    <maxFunctionDefs value="115"/>
+    <maxInstructionDefs value="0"/>
+    <maxStackElements value="204"/>
+    <maxSizeOfInstructions value="2913"/>
+    <maxComponentElements value="0"/>
+    <maxComponentDepth value="0"/>
+  </maxp>
+
+</ttFont>
