@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [EkMukta-SemiBold.ttf.ttx, EkMukta-Regular.ttf.ttx, EkMukta-Medium.ttf.ttx,
+  EkMukta-Light.ttf.ttx, EkMukta-ExtraLight.ttf.ttx, EkMukta-ExtraBold.ttf.ttx, EkMukta-Bold.ttf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
